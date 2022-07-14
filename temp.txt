@@ -1,0 +1,3 @@
+Bash is a popular scripting language.
+Many administrative tasks can be done easily
+by using bash script.
